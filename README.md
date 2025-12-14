@@ -1,8 +1,8 @@
-# computational-theory
+# Computational Theory README
 
 #### This README is a file that will give you context on my repository for the Computational Theory module.
 
-#### This repository contains a Jupyter Notebook that aims to answer 5 ([problems](https://github.com/ianmcloughlin/computational-theory/blob/main/assessment/problems.md)) related to the ([Secure Hash Standard (SHA-256)](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)).
+#### This repository contains a Jupyter Notebook that aims to answer 5 [problems](https://github.com/ianmcloughlin/computational-theory/blob/main/assessment/problems.md) related to the [Secure Hash Standard (SHA-256)](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf).
 
 #### The main purpose of this repository is to:
  -  Explore how cryptographic hash functions work
@@ -11,11 +11,14 @@
  -  Demonstrate common security issues that occur when hashes are used incorrectly
 
  # How to Run the Code
-  - Open a terminal and run:
+  - Open a terminal and run: </br>
 git clone https://github.com/EmmanuellaOsikoya/computational-theory.git
 
- - Then move into the repository directory:
+ - Then move into the repository directory: </br>
  cd computational-theory
 
- - Then install numpy
+ - Then install numpy: </br>
  pip install numpy
+
+ - Open the notebook in Visual Studio Code and press the run all button </br>
+ ![alt text](image.png)
