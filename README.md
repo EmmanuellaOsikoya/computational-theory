@@ -20,5 +20,7 @@ git clone https://github.com/EmmanuellaOsikoya/computational-theory.git
  - Then install numpy: </br>
  pip install numpy
 
- - Open the notebook in Visual Studio Code and press the run all button </br>
+ - Open the notebook in Visual Studio Code: </br>
+ code .
+ - Press the run all button </br>
  ![alt text](image.png)
